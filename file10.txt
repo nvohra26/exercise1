@@ -2,6 +2,3 @@ This is first file of excerise
 
 Editing from local site.
 Editing from Github site.
-
-1111111
-1234567
